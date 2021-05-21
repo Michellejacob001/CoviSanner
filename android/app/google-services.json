@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "752005945620",
+      "project_id": "tinkerhub-f302c",
+      "storage_bucket": "tinkerhub-f302c.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:752005945620:android:d4eb2f55bbb50b56760a01",
+          "android_client_info": {
+            "package_name": "com.example.covi_scanner"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "752005945620-3m0lm0hmo5r2epmviqvrmi0rdm8d4dhv.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBhJPxhYiKxWHpOZbgMTzllX_aG47lWbiQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "752005945620-3m0lm0hmo5r2epmviqvrmi0rdm8d4dhv.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
